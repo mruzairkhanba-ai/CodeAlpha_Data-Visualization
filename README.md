@@ -78,16 +78,14 @@ Transform raw transaction data into meaningful visual insights that support **bu
 ## 📁 Project Structure
 
 ```
-CodeAlpha-Task3-Data-Visualization/
+CodeAlpha_Data_Visualization/
 │
-├── Untitled8.ipynb
-│   └── Main analysis notebook
-│
-├── Online Retail Data Set after data cleaning.xlsx
-│   └── Cleaned dataset
-│
-└── README.md
-    └── Project documentation
+├── Final_Analysis_Report by Uzair_Khan.pdf   # Final analysis report with insights
+├── Final_data set.xlsx                       # Cleaned dataset used for visualization
+├── Original_data set.xlsx                    # Raw dataset before cleaning
+├── codealpha task3 code.py.pdf               # Python code used for data visualization
+├── README.md                                 # Project documentation
+└── LICENSE                                   # MIT License
 ```
 
 ---
